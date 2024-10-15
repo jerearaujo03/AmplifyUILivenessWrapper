@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import AmplifyUILivenessWrapper
 
 class ViewController: UIViewController {
 

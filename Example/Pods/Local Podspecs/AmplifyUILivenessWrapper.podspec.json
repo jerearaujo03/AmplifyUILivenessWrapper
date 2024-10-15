@@ -1,0 +1,23 @@
+{
+  "name": "AmplifyUILivenessWrapper",
+  "version": "0.1.0",
+  "summary": "Transparent wrapper for AmplifyUILiveness library.",
+  "description": "This CocoaPod wraps and exposes all methods from the AmplifyUILiveness Swift Package Manager library.",
+  "homepage": "https://github.com/jerearaujo03/AmplifyUILivenessWrapper.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jeremias Araujo": "jerearaujo03@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/jerearaujo03/AmplifyUILivenessWrapper.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "14.0"
+  },
+  "source_files": "AmplifyUILivenessWrapper/Classes/**/*.{swift}",
+  "vendored_frameworks": "Frameworks/AmplifyUILiveness.xcframework"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - AmplifyUILivenessWrapper (0.1.0)
+
+DEPENDENCIES:
+  - AmplifyUILivenessWrapper (from `../`)
+
+EXTERNAL SOURCES:
+  AmplifyUILivenessWrapper:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AmplifyUILivenessWrapper: d3d3ee07d72984de0190e0ab70c6b13e6290f026
+
+PODFILE CHECKSUM: 3062660abc3f4d624d64716a5ef819f73f39b176
+
+COCOAPODS: 1.15.2
