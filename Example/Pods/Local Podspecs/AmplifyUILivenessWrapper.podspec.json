@@ -1,8 +1,8 @@
 {
   "name": "AmplifyUILivenessWrapper",
-  "version": "0.1.0",
-  "summary": "Transparent wrapper for AmplifyUILiveness library.",
-  "description": "This CocoaPod wraps and exposes all methods from the AmplifyUILiveness Swift Package Manager library.",
+  "version": "1.3.3",
+  "summary": "Wrapper for AmplifyUILiveness library",
+  "description": "This CocoaPod wraps and exposes all methods from the AmplifyUILiveness Swift Package Manager library",
   "homepage": "https://github.com/jerearaujo03/AmplifyUILivenessWrapper.git",
   "license": {
     "type": "MIT",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/jerearaujo03/AmplifyUILivenessWrapper.git",
-    "tag": "0.1.0"
+    "tag": "1.3.3"
   },
   "platforms": {
     "ios": "14.0"

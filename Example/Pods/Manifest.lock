@@ -1,5 +1,5 @@
 PODS:
-  - AmplifyUILivenessWrapper (0.1.0)
+  - AmplifyUILivenessWrapper (1.3.3)
 
 DEPENDENCIES:
   - AmplifyUILivenessWrapper (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  AmplifyUILivenessWrapper: d3d3ee07d72984de0190e0ab70c6b13e6290f026
+  AmplifyUILivenessWrapper: 2b1a5dd182b0a5d69afe2e30b5a178a3e3cea6e1
 
 PODFILE CHECKSUM: 3062660abc3f4d624d64716a5ef819f73f39b176
 
